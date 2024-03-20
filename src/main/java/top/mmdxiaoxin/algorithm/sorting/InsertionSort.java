@@ -1,4 +1,4 @@
-package top.mmdxiaoxin.sortingAlgorithm;
+package top.mmdxiaoxin.algorithm.sorting;
 /*
 * 插入排序
 * 稳定

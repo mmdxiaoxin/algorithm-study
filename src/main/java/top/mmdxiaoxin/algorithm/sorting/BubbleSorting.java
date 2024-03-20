@@ -1,4 +1,4 @@
-package top.mmdxiaoxin.sortingAlgorithm;
+package top.mmdxiaoxin.algorithm.sorting;
 
 public class BubbleSorting {
 
